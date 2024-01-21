@@ -2,4 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+.ipynb_checkpoints
+__pycache__
 s3_access.py
